@@ -38,7 +38,7 @@
 <div id="content_2" class="tabcontent" style="display:none;">
     <p><b><center><font size=6>About Me</font></center></b></p>
     <br>
-    <br> I am the most amazing computer science student ever. 
+    <br> I am a introvert with verry few hobbies. 
 </div>
 
 
